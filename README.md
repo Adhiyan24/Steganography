@@ -1,5 +1,5 @@
 # Steganography
-# Steganography using Least Significant Bit (LSB) Method
+
 
 ## Overview
 This project implements a simple image steganography technique using the Least Significant Bit (LSB) method. It allows users to hide a secret message inside an image and retrieve it later using OpenCV.
